@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <style
+        name="Theme.RickAndMorty"
+        parent="android:style/Theme.Material.Light.NoActionBar">
+
+        <item name="android:statusBarColor">
+            #080B16
+        </item>
+
+        <item name="android:navigationBarColor">
+            #080B16
+        </item>
+
+    </style>
+
+</resources>
